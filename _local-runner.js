@@ -1,5 +1,5 @@
 const express = require("express");
-const { handler } = require("./index");
+const { handler } = require("./dist/index");
 
 const app = express();
 const port = 3323;
