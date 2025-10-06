@@ -1,4 +1,5 @@
 import type { APIGatewayProxyHandler } from "aws-lambda";
+import { getAllDomains } from "./get-all-domains.js";
 
 export const handler: APIGatewayProxyHandler = async (event) => {
   console.log(event.httpMethod, event.path);
@@ -6,7 +7,7 @@ export const handler: APIGatewayProxyHandler = async (event) => {
 
   return {
     statusCode: 200,
-    body: JSON.stringify({ message: "Hello from Lambda! lol haha 9" }),
+    body: JSON.stringify(await getAllDomains()),
   };
 };
 
