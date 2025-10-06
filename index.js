@@ -5,7 +5,7 @@ const handler = async (event) => {
     console.log(event.queryStringParameters);
     return {
         statusCode: 200,
-        body: JSON.stringify({ message: "Hello from Lambda! lol" }),
+        body: JSON.stringify({ message: "Hello from Lambda! lol mdr" }),
     };
 };
 console.log("Lambda function initialized");
