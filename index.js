@@ -1,4 +1,4 @@
-import { handler } from "./dist/index";
+import { handler } from "./dist/index.js";
 
 //export * from "./dist/index";
 
