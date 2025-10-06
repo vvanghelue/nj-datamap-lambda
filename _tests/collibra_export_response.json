@@ -1,0 +1,1693 @@
+{
+  "view": {
+    "Communities": [
+      {
+        "community_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6",
+        "community_name": "ENGIE Data Map",
+        "Community0": [
+          {}
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d393d",
+        "community_name": "01 - Customer & Consumption",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d393f",
+        "community_name": "02 - Energy Supply & Portfolio Management",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d3941",
+        "community_name": "03 - Energy Trading & Risk Management",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d3943",
+        "community_name": "04 - Climate, Energy Transition & Decarbonization",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "0b7ebd2b-f4a4-4c97-a389-771eb13cb615",
+                "user_first_name": "Guillaume",
+                "user_last_name": "ROZANT"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Chief Data Officer"
+              }
+            ]
+          },
+          {
+            "User2": [
+              {
+                "user_id": "019999c5-8358-797c-bd58-59d35a80501f",
+                "user_first_name": "Florence",
+                "user_last_name": "FOUCQUET"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Domain Owner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d3945",
+        "community_name": "05 - Electricity & Utilities Generation and Storage",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d3947",
+        "community_name": "06 - Gas & Power Networks",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d3949",
+        "community_name": "07 - Decentralized Energy & On-Site Solutions",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d394b",
+        "community_name": "08 - Mobility & EV Charging",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d394d",
+        "community_name": "09 - Business Development & Construction",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f",
+        "community_name": "10 - Finance",
+        "community_description": "Supports financial operations, planning, internal control and regulatory requirements.",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "0b7ebd2b-f4a4-4c97-a389-771eb13cb615",
+                "user_first_name": "Guillaume",
+                "user_last_name": "ROZANT"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Chief Data Officer"
+              }
+            ]
+          },
+          {
+            "User2": [
+              {
+                "user_id": "01998634-af88-74f9-b452-82b89f934bb9",
+                "user_first_name": "Pierre-François",
+                "user_last_name": "RIOLACCI"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Domain Owner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcd",
+        "community_name": "11 - Procurement",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf",
+        "community_name": "12 - Legal",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd1",
+        "community_name": "13 - Human Resources",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3",
+        "community_name": "14 - Health & Safety and Security",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd5",
+        "community_name": "15 - Information Technology",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd7",
+        "community_name": "16 - Strategy, Research & Innovation",
+        "Community0": [
+          {
+            "community_parent": "ENGIE Data Map",
+            "community_parent_id": "0198f0ed-308d-7461-baf5-146f7acf8ff6"
+          }
+        ]
+      },
+      {
+        "community_id": "01995d4a-05cf-7b80-ab46-14ca96f14268",
+        "community_name": "10.04 - Controlling",
+        "community_description": "Covers data related to financial planning, performance analysis, and management reporting. Supports budget, forecast, and strategic planning cycles. Ensures consistent, high-quality financial data across the Group and serves as the single source of truth for key functions (e. g., HR, CSR, IR).",
+        "Community0": [
+          {
+            "community_parent": "10 - Finance",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "01998627-8dce-7d84-bbeb-7b1cd4aef33d",
+                "user_first_name": "Tristan",
+                "user_last_name": "Vesval"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01995d4c-26a1-777b-b866-34fc5263b549",
+            "domain_name": "02 - Controlling - Data Products",
+            "Assets": [
+              {
+                "asset_id": "01995d4c-c7cf-7812-8c92-d2d75a54f4a2",
+                "asset_name": "Master & Reference Data Finance",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Data Product"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "domain_id": "01995d4c-7122-7cf5-a1c1-ef63b50cc57e",
+            "domain_name": "01 - Controlling - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "01995d4e-d451-7a67-806b-2f56dc1e1d2e",
+                "asset_name": "Reporting Unit Master Data",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01995d51-710c-7267-82bf-2a774c46b20a",
+                "asset_name": "Period Reference",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c6-7cae-ab18-835e2a9a315d",
+                "asset_name": "Reporting Unit Hierarchy by level",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c6-7cae-ab18-835e2a9a315f",
+                "asset_name": "Reporting Unit Hierarchy Parent Child",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c6-7cae-ab18-835e2a9a3161",
+                "asset_name": "Reporting Unit Matrix Hierarchy",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c6-7cae-ab18-835e2a9a3163",
+                "asset_name": "MDT Account",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebea2",
+                "asset_name": "MDT Account Hierarchy Parent Child",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebea4",
+                "asset_name": "Master Data KPI",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebea6",
+                "asset_name": "Reporting Activity",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebea8",
+                "asset_name": "Reporting Activity Hierarchy Parent Child",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebeaa",
+                "asset_name": "Business Functions (Functional Area)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebeac",
+                "asset_name": "Best Estimate Effects",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebeae",
+                "asset_name": "Best Estimate Hierarchy",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebeb0",
+                "asset_name": "EBIT Waterfall Effects",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998655-b0c7-79fe-b854-d377325ebeb2",
+                "asset_name": "EBIT Waterfall Hierarchy",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de70909f4",
+                "asset_name": "Version Reference",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de70909f6",
+                "asset_name": "Consolidation Scope",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de70909f8",
+                "asset_name": "Contribution Level",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de70909fa",
+                "asset_name": "Currency",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de70909fc",
+                "asset_name": "Flows",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de70909fe",
+                "asset_name": "Energy Services Sold",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de7090a00",
+                "asset_name": "Geography",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de7090a02",
+                "asset_name": "Market Segmentation",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de7090a04",
+                "asset_name": "Revenue Type",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de7090a06",
+                "asset_name": "Sector of Activity",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865b-c2a3-775c-8286-c99de7090a08",
+                "asset_name": "Technology",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "community_id": "01997be4-5123-7e1f-9e42-ac773fc53042",
+        "community_name": "10.02 - Accounting",
+        "community_description": "Covers accounting data across the Group, ensuring consistency in financial reporting, compliance and audit readiness. Manages consolidation processes, accounting policies, impairment testing and interactions with auditors and regulators.",
+        "Community0": [
+          {
+            "community_parent": "10 - Finance",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "01998627-8dce-7d84-bbeb-7b1cd4aef33d",
+                "user_first_name": "Tristan",
+                "user_last_name": "Vesval"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997be4-c360-713d-adab-e1cb9a2f349a",
+            "domain_name": "02 - Accounting - Data Products"
+          },
+          {
+            "domain_id": "01997be5-0aec-7ccc-8b0f-35d33cf599d3",
+            "domain_name": "01 - Accounting - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "01998656-dea5-7eee-848f-17a840e3e372",
+                "asset_name": "Company Code",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998656-dea5-7eee-848f-17a840e3e374",
+                "asset_name": "Trading Partner",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998656-dea5-7eee-848f-17a840e3e376",
+                "asset_name": "Business Partner",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998656-dea5-7eee-848f-17a840e3e378",
+                "asset_name": "Cost Center",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998656-dea5-7eee-848f-17a840e3e37a",
+                "asset_name": "Profit Center",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "01998656-dea5-7eee-848f-17a840e3e37c",
+                "asset_name": "Fixed asset Master Data",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865d-089b-7ef9-89b7-bd6964122ffb",
+                "asset_name": "Operational Chart of Account (OCOA)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865d-089b-7ef9-89b7-bd6964122ffd",
+                "asset_name": "Local Chart of Account (LCOA)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865d-089b-7ef9-89b7-bd6964122fff",
+                "asset_name": "Group Chart of Account (GCOA)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865d-089b-7ef9-89b7-bd6964123001",
+                "asset_name": "Smart Chart of Account (SCOA)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "community_id": "01997be4-5124-7657-92ee-16180583ef1a",
+        "community_name": "10.03 - Tax",
+        "community_description": "Covers tax-related data including policy, compliance, and risk management. Designs tax data structures, monitors reforms, and ensure alignment with the Group's strategy and legal requirements. Supports tax audits, defense, and CSR integration.",
+        "Community0": [
+          {
+            "community_parent": "10 - Finance",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "019999ca-b663-7a94-8e5c-1f11fac51201",
+                "user_first_name": "Laurence",
+                "user_last_name": "Jaton"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997be5-c7fd-73ae-ba81-663921d8c801",
+            "domain_name": "01 - Tax - Business Assets"
+          },
+          {
+            "domain_id": "01997be6-0b99-794a-ba95-c2677ffa6f9d",
+            "domain_name": "02 - Tax - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997be4-5124-7657-92ee-16180583ef1c",
+        "community_name": "10.05 - Risk & Insurance",
+        "community_description": "Covers data related to risk management and insurance policies, including risk identification, mitigation, and insurance programs. Ensures reliable, centralized data to support informed risk decisions, claims handling, and compliance across the Group",
+        "Community0": [
+          {
+            "community_parent": "10 - Finance",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "019999cb-f60c-7f82-b634-40a74a528ad4",
+                "user_first_name": "Nadine",
+                "user_last_name": "Barrere-Couchon"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997be6-78ac-7c16-90d8-fe29f2680296",
+            "domain_name": "01 - Risk & Insurance - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "01998658-3849-7f6c-89c9-1ff558cae63d",
+                "asset_name": "Risk Entity",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865e-36ba-734a-aaba-2cb12f674734",
+                "asset_name": "Risk Category",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865e-36ba-734a-aaba-2cb12f674736",
+                "asset_name": "Risk Identification Assessment Criteria",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199865e-36ba-734a-aaba-2cb12f674738",
+                "asset_name": "Risk Evaluation Assessment Criteria",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "domain_id": "01997be6-bb0b-7826-a10c-09771a960513",
+            "domain_name": "02 - Risk & Insurance - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997be4-5124-7657-92ee-16180583ef1e",
+        "community_name": "10.01 - Treasury",
+        "community_description": "Covers data for treasury operations, cash flow and financing. Covers policy implementation, cash optimization, guarantees, and internal financing. Supports short- and long-term liquidity planning with accurate, timely data and decision-making.",
+        "Community0": [
+          {
+            "community_parent": "10 - Finance",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "01922906-b8df-71f7-84e1-9fd1115fa464",
+                "user_first_name": "Laurent",
+                "user_last_name": "PREEL"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997be8-00f3-7f33-a8c0-8c32a30c0cef",
+            "domain_name": "01 - Treasury - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "01998657-c94e-79e3-8f30-64ecc3d2dedb",
+                "asset_name": "Bank Account Master Data",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "domain_id": "01997be8-fc7f-7d38-b5fd-22cdb13e669b",
+            "domain_name": "02 - Treasury - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997be4-5124-7657-92ee-16180583ef20",
+        "community_name": "10.06 - M&A",
+        "community_description": "Covers data management for acquisitions, disposals and partnerships. Coordinate transaction data from deal origination to execution, ensuring compliance with Group standards. Supports portfolio strategy with accurate data on synergies, growth, and value creation.",
+        "Community0": [
+          {
+            "community_parent": "10 - Finance",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "019999cd-a7d8-787f-a6d5-0bfc6961f7e5",
+                "user_first_name": "Bertrand",
+                "user_last_name": "Haas"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997be9-5c70-7cd7-98a5-51ca51118675",
+            "domain_name": "01 - M&A - Business Assets"
+          },
+          {
+            "domain_id": "01997bea-ef73-7365-b7e2-a3193d331e6e",
+            "domain_name": "02 - M&A - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997be4-5124-7657-92ee-16180583ef22",
+        "community_name": "10.07 - Transversal Operations",
+        "Community0": [
+          {
+            "community_parent": "10 - Finance",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d394f"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997beb-43bf-7c50-8281-c703cecc5d63",
+            "domain_name": "01 - Operation & Systems - Business Assets"
+          },
+          {
+            "domain_id": "01997beb-8ec9-79b4-8e95-4d958f3e694d",
+            "domain_name": "02 - Operation & Systems - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997bf2-8d35-784b-ab1a-6add5e42a145",
+        "community_name": "12.01 - Contracts",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c1e-12bc-7d21-9b80-11a9f69b9aaf",
+            "domain_name": "01. Contracts - Business Assets"
+          },
+          {
+            "domain_id": "01997c1e-a0a0-778a-9829-bf5f45410ff0",
+            "domain_name": "02. Contracts - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997bf2-8d35-784b-ab1a-6add5e42a147",
+        "community_name": "12.02 - Ethics & Compliance",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997bf5-ab5f-746d-a07b-f7c66d183212",
+            "domain_name": "01. Ethics & Compliance - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "01997bf9-b059-7557-9894-4f76990a3050",
+                "asset_name": "Ethic Compliance Officers",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "domain_id": "01997bf7-4b94-70f7-8825-66a40ea443fd",
+            "domain_name": "02. Ethics & Compliance - Data products",
+            "Assets": [
+              {
+                "asset_id": "01997bff-fee1-74d1-a481-8403db7030ec",
+                "asset_name": "ECOs Referential",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Data Product"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "community_id": "01997bf2-8d35-784b-ab1a-6add5e42a149",
+        "community_name": "12.03 - Privacy",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c1f-605e-79bf-bb81-f598f0e9c9d0",
+            "domain_name": "01. Privacy - Business Assets"
+          },
+          {
+            "domain_id": "01997c20-5f0f-78a2-bdf4-b13401fe1c02",
+            "domain_name": "02. Privacy - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997bf3-bb24-7808-bc14-ec4b6f85e47f",
+        "community_name": "12.04 - Competition & Regulations",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c20-f312-74aa-9ca8-31cb93486407",
+            "domain_name": "01. Competition & Regulations - Business Assets"
+          },
+          {
+            "domain_id": "01997c23-4fa6-7c2d-a59c-9581593a53fd",
+            "domain_name": "02. Competition & Regulations - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997c0d-e749-7156-87b6-6ce9a9951af2",
+        "community_name": "12.05 - Intellectual Property",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c21-5f9e-7fba-90ed-a16b4187171c",
+            "domain_name": "01. Intellectual Property - Business Assets"
+          },
+          {
+            "domain_id": "01997c23-c851-75cb-81a1-ee16e49f0890",
+            "domain_name": "02. Intellectual Property - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997c0d-e749-7156-87b6-6ce9a9951af4",
+        "community_name": "12.06 - Litigation",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c21-c2a9-7e22-95a5-2d6073c642d9",
+            "domain_name": "01. Litigation - Business Assets"
+          },
+          {
+            "domain_id": "01997c24-245a-7148-9430-efcfc5a9ba34",
+            "domain_name": "02. Litigation - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997c0d-e749-7156-87b6-6ce9a9951af6",
+        "community_name": "12.07 - Mergers & Acquisitions",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c22-3fce-7b5f-a613-b7366cf60941",
+            "domain_name": "01. Mergers & Acquisitions - Business Assets"
+          },
+          {
+            "domain_id": "01997c24-90ab-74b3-b7f9-b352d8c833d8",
+            "domain_name": "02. Mergers & Acquisitions - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997c0d-e749-7156-87b6-6ce9a9951af8",
+        "community_name": "12.08 - Legal Operations",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c22-a557-7a9a-a112-5c814eaffa44",
+            "domain_name": "01. Legal Operations - Business Assets"
+          },
+          {
+            "domain_id": "01997c24-f70d-7f59-805a-d668ce3d488c",
+            "domain_name": "02. Legal Operations - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01997c0d-e749-7156-87b6-6ce9a9951afa",
+        "community_name": "12.09 - Legal Entity Management",
+        "Community0": [
+          {
+            "community_parent": "12 - Legal",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dcf"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "01997c12-9c25-7ea5-af74-51aa35a00dc1",
+            "domain_name": "01. Legal Entity Management - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "01997c19-bb65-71dc-b7c7-01357cf2c8bd",
+                "asset_name": "Legal Entity",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199aa7f-bde6-769e-984d-0295719e719a",
+                "asset_name": "Director",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "domain_id": "01997c16-370d-7b1e-b574-e0129bf70bce",
+            "domain_name": "02. Legal Entity Management - Data products",
+            "Assets": [
+              {
+                "asset_id": "01997c1d-1fb5-7584-b47b-1cb771929c35",
+                "asset_name": "Dilitrust",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Data Product"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "community_id": "019986da-56ef-7011-afb1-b1041069ae07",
+        "community_name": "14.01 - Rituals",
+        "Community0": [
+          {
+            "community_parent": "14 - Health & Safety and Security",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "019986db-cad4-7230-bebf-32b743aaf584",
+            "domain_name": "01. Rituals - Business Assets"
+          },
+          {
+            "domain_id": "019986e2-8677-718c-8ffe-f019878b877f",
+            "domain_name": "02. Rituals - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "019986da-56f0-79bd-b23f-c24a117a46fd",
+        "community_name": "14.02 - Incidents",
+        "Community0": [
+          {
+            "community_parent": "14 - Health & Safety and Security",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "019986dc-6d6b-71df-b10f-ceaa3778b0e2",
+            "domain_name": "01. Incidents - Business Assets"
+          },
+          {
+            "domain_id": "019986e2-0565-713d-9a01-d3a8969661d5",
+            "domain_name": "02. Incidents - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "019986da-56f0-79bd-b23f-c24a117a46ff",
+        "community_name": "14.03 - Best Practices",
+        "Community0": [
+          {
+            "community_parent": "14 - Health & Safety and Security",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "019986dc-e0d3-7bf9-be9c-6104d36f4f75",
+            "domain_name": "01. Best Practices - Business Assets"
+          },
+          {
+            "domain_id": "019986e1-af96-7682-92d0-303466d3d7f3",
+            "domain_name": "02. Best Practices - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "019986da-56f0-79bd-b23f-c24a117a4701",
+        "community_name": "14.04 - Audits",
+        "Community0": [
+          {
+            "community_parent": "14 - Health & Safety and Security",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "019986dd-396d-75b6-8a48-2f9d56e78f3b",
+            "domain_name": "01. Audits - Business Assets"
+          },
+          {
+            "domain_id": "019986e1-5256-7d3c-8c2f-3c5cba9ad2d1",
+            "domain_name": "02. Audits - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "019986da-56f0-79bd-b23f-c24a117a4703",
+        "community_name": "14.05 - SubContractors",
+        "Community0": [
+          {
+            "community_parent": "14 - Health & Safety and Security",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "019986dd-a8dd-7149-b8f6-ffb392bf4c41",
+            "domain_name": "01. SubContractors - Business Assets"
+          },
+          {
+            "domain_id": "019986df-a8ad-75d4-a6d9-f4788b35b4f6",
+            "domain_name": "02. SubContractors - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "019986da-56f0-79bd-b23f-c24a117a4705",
+        "community_name": "14.06 - Risks & Hazards",
+        "Community0": [
+          {
+            "community_parent": "14 - Health & Safety and Security",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "019986de-04ea-7233-b7db-eab518fc1979",
+            "domain_name": "01. Risks & Hazards - Business Assets"
+          },
+          {
+            "domain_id": "019986df-3c7d-7ddd-b151-1fe5753995a7",
+            "domain_name": "02. Risks & Hazards - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "019986da-56f0-79bd-b23f-c24a117a4707",
+        "community_name": "14.07 - Access Management",
+        "Community0": [
+          {
+            "community_parent": "14 - Health & Safety and Security",
+            "community_parent_id": "0198f0f1-044f-7f87-9b20-fc3851c44dd3"
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "019986de-6bf3-7f85-a353-c1a11af81e64",
+            "domain_name": "01. Access Management - Business Assets"
+          },
+          {
+            "domain_id": "019986de-e5ae-7652-8b19-98529ac55620",
+            "domain_name": "02. Access Management - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01999607-a4d8-766a-9bfd-308e9397669e",
+        "community_name": "04.01 - Climate",
+        "community_description": "Steer the climate objectives of the group, through GHG emissions measurement and projections, with attenuations and adaptations plans. Allows the right climate internal and external reporting. Contains all factors to calculate precise emissions linked to all the activities of the group.",
+        "Community0": [
+          {
+            "community_parent": "04 - Climate, Energy Transition & Decarbonization",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d3943"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "019999c8-8fb6-7372-a566-5e02881c6bf6",
+                "user_first_name": "Clément",
+                "user_last_name": "Tremblay"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "0199a4da-ab90-7da5-9698-81cac1efd2a9",
+            "domain_name": "01 - Climate - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "0199a530-5baf-71b3-b00b-2e131c96060c",
+                "asset_name": "Techologies sensitivity to climate change",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199a530-5baf-71b3-b00b-2e131c96060e",
+                "asset_name": "SHAREF - Emissions Factors",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199a530-5baf-71b3-b00b-2e131c960610",
+                "asset_name": "SHAREF - Power Losses",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199a530-5baf-71b3-b00b-2e131c960612",
+                "asset_name": "SHAREF - Global Warming Potentials",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "domain_id": "0199a4da-f253-772f-a41e-d7eed4cc26e2",
+            "domain_name": "02 - Climate - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01999607-a4d8-766a-9bfd-308e939766a0",
+        "community_name": "04.02 - Nature",
+        "community_description": "Steer the nature objectives of the group through measurable impacts of the group's activities. Objects such as biodiversity, pollution, ressources consumption &amp; circular economy, water.",
+        "Community0": [
+          {
+            "community_parent": "04 - Climate, Energy Transition & Decarbonization",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d3943"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "0196a5a0-2397-7f94-9071-8863fef3db71",
+                "user_first_name": "Elsa",
+                "user_last_name": "FAVROT MONIER"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "0199a4db-4280-7d24-8224-6a0fdd5ea6db",
+            "domain_name": "01 - Nature - Business Objects"
+          },
+          {
+            "domain_id": "0199a4db-74e8-746b-a234-798c4274f7fe",
+            "domain_name": "02 - Nature - Data Products"
+          }
+        ]
+      },
+      {
+        "community_id": "01999607-a4d8-766a-9bfd-308e939766a2",
+        "community_name": "04.03 - Operations",
+        "community_description": "Report the operations of all activities of the group regarding energy management including sales, production, storage and distribution. It also contains the reference and master data common to the ESG filière.",
+        "Community0": [
+          {
+            "community_parent": "04 - Climate, Energy Transition & Decarbonization",
+            "community_parent_id": "0198f0f1-044e-71ab-af97-d53d3c5d3943"
+          }
+        ],
+        "Responsibility1": [
+          {
+            "User2": [
+              {
+                "user_id": "019999c9-6835-774e-8b20-755e86d294e9",
+                "user_first_name": "Anne-Soline",
+                "user_last_name": "Duee"
+              }
+            ],
+            "Role3": [
+              {
+                "role_name": "Data Owner"
+              }
+            ]
+          }
+        ],
+        "Domains": [
+          {
+            "domain_id": "0199a4db-af08-7798-8184-aed85ea648d7",
+            "domain_name": "02 - Operations - Data Products"
+          },
+          {
+            "domain_id": "0199a4db-db24-7511-8a03-dd17e1dc342c",
+            "domain_name": "01 - Operations - Business Assets",
+            "Assets": [
+              {
+                "asset_id": "0199a52f-49b3-72ff-800e-dfea5762ed47",
+                "asset_name": "Activities (ESG Context)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199a52f-49b3-72ff-800e-dfea5762ed49",
+                "asset_name": "Commodities",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199a52f-49b3-72ff-800e-dfea5762ed4b",
+                "asset_name": "Technologies (ESG Context)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199a52f-49b3-72ff-800e-dfea5762ed4d",
+                "asset_name": "Countries (ESG Context)",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Referential_Data"
+                  }
+                ]
+              },
+              {
+                "asset_id": "0199a52f-49b3-72ff-800e-dfea5762ed4f",
+                "asset_name": "Sites",
+                "AssetTypes": [
+                  {
+                    "asset_type_name": "Business Object"
+                  }
+                ],
+                "Tags": [
+                  {
+                    "tag_name": "Master_Data"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

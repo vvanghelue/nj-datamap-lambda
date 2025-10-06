@@ -1,0 +1,5 @@
+curl -X POST \
+  "https://engie-test.collibra.com/rest/2.0/outputModule/export/json?validationEnabled=false" \
+  -H "Content-Type: application/json" \
+  -u "engie_data_map_tech_user:engiedatamap2025" \
+  -d @collibra_extraction_request_12092025.json

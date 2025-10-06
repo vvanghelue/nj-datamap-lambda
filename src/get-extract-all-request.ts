@@ -1,0 +1,81 @@
+export const getExtractAllRequest = ({
+  communityId,
+}: {
+  communityId: string;
+}) => ({
+  ViewConfig: {
+    Resources: {
+      Community: {
+        name: "Communities",
+        Id: { name: "community_id" },
+        Name: { name: "community_name" },
+        Description: { name: "community_description" },
+        ParentCommunity: {
+          Name: { name: "community_parent" },
+          Id: { name: "community_parent_id" },
+        },
+        Responsibility: {
+          User: {
+            Id: { name: "user_id" },
+            FirstName: { name: "user_first_name" },
+            LastName: { name: "user_last_name" },
+          },
+          Role: {
+            Signifier: { name: "role_name" },
+            Filter: {
+              Field: {
+                name: "role_name",
+                operator: "IN",
+                value: [
+                  "Data Domain Owner",
+                  "Data Owner",
+                  "Chief Data Officer",
+                ],
+              },
+            },
+          },
+        },
+        Domain: {
+          name: "Domains",
+          Id: { name: "domain_id" },
+          Name: { name: "domain_name" },
+          Asset: {
+            name: "Assets",
+            Id: { name: "asset_id" },
+            displayName: { name: "asset_name" },
+            AssetType: {
+              name: "AssetTypes",
+              Name: { name: "asset_type_name" },
+              Filter: {
+                Field: {
+                  name: "asset_type_name",
+                  operator: "IN",
+                  value: ["Business Object", "Data Product"],
+                },
+              },
+            },
+            Tag: {
+              name: "Tags",
+              Name: { name: "tag_name" },
+            },
+          },
+          Filter: {
+            Field: {
+              name: "domain_name",
+              operator: "NOT EQUALS",
+              value: "Issues",
+            },
+          },
+        },
+        Filter: {
+          Field: {
+            name: "community_id",
+            operator: "EQUALS",
+            value: communityId,
+            descendants: true,
+          },
+        },
+      },
+    },
+  },
+});

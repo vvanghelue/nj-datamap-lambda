@@ -1,0 +1,77 @@
+curl -X 'POST' \
+  'https://engie-test.collibra.com/rest/2.0/outputModule/export/json?validationEnabled=false' \
+  -H 'accept: text/plain' \
+  -H 'Content-Type: application/json' \
+  -H 'X-CSRF-TOKEN: 6237c2f5-7b63-4011-8b97-97709c425f4b' \
+  -d '{
+  "ViewConfig": {
+    "Resources": {
+      "Community": {
+        "name": "Communities",
+        "Id": { "name": "community_id" },
+        "Name": { "name": "community_name" },
+        "Description": { "name": "community_description" },
+		"ParentCommunity": { 
+			"Name" : {"name": "community_parent" }
+		},
+		"Responsibility": {
+		  "User": {
+			"Id": { "name": "user_id" },
+			"FirstName": { "name": "user_first_name" },
+			"LastName": { "name": "user_last_name" }
+		  },
+		  "Role": {
+			"Signifier": { "name": "role_name" },
+			"Filter": {
+			  "Field": {
+				"name": "role_name",
+				"operator": "IN",
+				"value": ["Data Domain Owner", "Data Owner", "Chief Data Officer"]
+			  }
+			}
+		  }
+        },
+        "Domain": {
+          "name": "Domains",
+          "Id": { "name": "domain_id" },
+          "Name": { "name": "domain_name" },
+          "Asset": {
+            "name": "Assets",
+            "Id": { "name": "asset_id" },
+            "displayName": { "name": "asset_name" },
+            "AssetType": {
+              "name": "AssetTypes",
+              "Name": { "name": "asset_type_name" },
+              "Filter": {
+                "Field": {
+                  "name": "asset_type_name",
+                  "operator": "IN",
+                  "value": ["Business Object", "Data Product"]
+                }
+              }
+            },
+            "Tag": {
+              "name": "Tags",
+              "Name": { "name": "tag_name" }
+            }
+          },
+          "Filter": {
+            "Field": {
+              "name": "domain_name",
+              "operator": "NOT EQUALS",
+              "value": "Issues"
+            }
+          }
+        },
+        "Filter": {
+          "Field": {
+            "name": "community_id",
+            "operator": "EQUALS",
+            "value": "0198ef99-dd87-7349-9954-fbb6add6f757",
+            "descendants": true
+          }
+        }
+      }
+    }
+  }
+}'
