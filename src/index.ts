@@ -1,6 +1,6 @@
 import type { APIGatewayProxyHandler } from "aws-lambda";
 
-const handler: APIGatewayProxyHandler = async (event) => {
+export const handler: APIGatewayProxyHandler = async (event) => {
   console.log(event.httpMethod, event.path);
   console.log(event.queryStringParameters);
 
@@ -11,5 +11,3 @@ const handler: APIGatewayProxyHandler = async (event) => {
 };
 
 console.log("Lambda function initialized");
-
-module.exports.handler = handler;

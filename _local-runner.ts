@@ -1,5 +1,5 @@
-const express = require("express");
-const { handler } = require("./dist/index");
+import express from "express";
+import { handler } from "./src/index";
 
 const app = express();
 const port = 3323;
